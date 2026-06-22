@@ -21,7 +21,7 @@ import time
 import queue
 import logging
 
-# ================== 配置区域 ==================
+# ================== 讯飞听写配置区域 ==================
 APP_ID = ""
 API_KEY = ""
 API_SECRET = ""
