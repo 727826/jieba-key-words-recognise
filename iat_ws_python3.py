@@ -22,9 +22,9 @@ import queue
 import logging
 
 # ================== 配置区域 ==================
-APP_ID = "0c76c38b"
-API_KEY = "25e3549d58ea2d55c91562b373078126"
-API_SECRET = "OGRhNTBmOTg3YjRiNGI0ODM3YjQ2Zjgx"
+APP_ID = ""
+API_KEY = ""
+API_SECRET = ""
 
 FORMAT = pyaudio.paInt16
 CHANNELS = 1
